@@ -30,7 +30,7 @@ Q1.Which loans have an interest rate above 10%?
 Q2.Which borrowers are older than 60 years?
 ![image](https://github.com/user-attachments/assets/a0af4277-0e3e-4969-8f50-86f931cbd2e3)
 
-Q3.Which loans have the collection method as "Settlement Offer"?
+Q3.Which borrowers have loans past due by more than 30 days?
 ![image](https://github.com/user-attachments/assets/a335fd0c-543f-4351-a37f-65a1e0a9eab8)
 
 Q4.Who are the borrowers sorted by the number of missed payments, starting with the highest?
