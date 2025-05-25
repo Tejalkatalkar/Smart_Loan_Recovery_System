@@ -25,7 +25,7 @@ The primary goal is to provide useful insights into loan performance, borrower b
 
 ## 🔟 Final Business Question
 Q1.Which loans have an interest rate above 10%?
-![image](https://github.com/user-attachments/assets/8c8c5807-3bec-4367-97a7-14c87f08949a)
+ ![image](https://github.com/user-attachments/assets/8c8c5807-3bec-4367-97a7-14c87f08949a)
 
 Q2.Which borrowers are older than 60 years?
 ![image](https://github.com/user-attachments/assets/a0af4277-0e3e-4969-8f50-86f931cbd2e3)
