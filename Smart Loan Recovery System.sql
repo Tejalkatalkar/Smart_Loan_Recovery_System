@@ -128,16 +128,10 @@ SELECT Borrower_ID, Age
 FROM loan_data
 WHERE Age > 60;
 
---3.Loans with collection method as "Settlement Offer"
-SELECT Borrower_ID, Collection_Method
-FROM loan_data
-WHERE Collection_Method = 'Settlement Offer';
-
 --3.Borrowers past due over 30 days
 SELECT Borrower_ID, Days_Past_Due
 FROM loan_data
 WHERE Days_Past_Due > 30;
-
 
 --4.Loans with collection method as "Settlement Offer"
 SELECT Borrower_ID, Collection_Method
