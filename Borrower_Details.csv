@@ -1,0 +1,501 @@
+Borrower_ID,Age,Gender,Employment_Type,Monthly_Income,Num_Dependents
+BRW_1,59,Male,Salaried,215422,0
+BRW_2,49,Female,Salaried,60893,0
+BRW_3,35,Male,Salaried,116520,1
+BRW_4,63,Female,Salaried,140818,2
+BRW_5,28,Male,Salaried,76272,1
+BRW_6,41,Male,Salaried,238224,3
+BRW_7,59,Female,Self-Employed,82649,1
+BRW_8,39,Male,Salaried,79674,0
+BRW_9,43,Male,Self-Employed,159832,3
+BRW_10,31,Male,Self-Employed,167999,0
+BRW_11,31,Male,Business Owner,101475,2
+BRW_12,44,Female,Self-Employed,76367,0
+BRW_13,56,Male,Self-Employed,244027,0
+BRW_14,60,Male,Business Owner,158660,1
+BRW_15,44,Male,Business Owner,136750,0
+BRW_16,23,Female,Salaried,247750,3
+BRW_17,42,Male,Salaried,133154,3
+BRW_18,22,Male,Salaried,198305,2
+BRW_19,44,Female,Salaried,59738,3
+BRW_20,64,Female,Self-Employed,48397,1
+BRW_21,50,Male,Self-Employed,97189,2
+BRW_22,58,Male,Self-Employed,91367,3
+BRW_23,22,Male,Salaried,217332,1
+BRW_24,41,Male,Self-Employed,135585,3
+BRW_25,53,Male,Self-Employed,91619,3
+BRW_26,32,Male,Self-Employed,126453,0
+BRW_27,42,Male,Business Owner,34816,3
+BRW_28,64,Male,Self-Employed,188312,3
+BRW_29,45,Female,Salaried,152348,1
+BRW_30,47,Female,Self-Employed,94530,1
+BRW_31,62,Male,Salaried,169571,0
+BRW_32,48,Female,Salaried,234648,3
+BRW_33,36,Female,Self-Employed,123856,0
+BRW_34,35,Male,Salaried,228567,3
+BRW_35,64,Male,Self-Employed,86635,2
+BRW_36,23,Male,Salaried,122803,2
+BRW_37,57,Male,Self-Employed,231184,0
+BRW_38,27,Female,Salaried,50946,0
+BRW_39,41,Male,Business Owner,70204,0
+BRW_40,29,Male,Self-Employed,197958,1
+BRW_41,59,Female,Salaried,217724,1
+BRW_42,38,Female,Salaried,30563,1
+BRW_43,24,Male,Business Owner,107324,0
+BRW_44,45,Female,Salaried,238536,3
+BRW_45,34,Female,Salaried,247944,2
+BRW_46,29,Female,Salaried,24847,0
+BRW_47,46,Male,Salaried,41155,1
+BRW_48,22,Female,Self-Employed,94671,1
+BRW_49,40,Male,Self-Employed,131891,0
+BRW_50,48,Female,Salaried,98310,0
+BRW_51,27,Female,Salaried,213350,1
+BRW_52,64,Female,Self-Employed,164381,3
+BRW_53,28,Female,Salaried,146691,1
+BRW_54,55,Female,Salaried,229266,1
+BRW_55,34,Female,Business Owner,196180,0
+BRW_56,37,Male,Self-Employed,49707,3
+BRW_57,56,Male,Self-Employed,166409,1
+BRW_58,60,Male,Self-Employed,96537,1
+BRW_59,24,Female,Salaried,212576,2
+BRW_60,22,Male,Self-Employed,193686,0
+BRW_61,26,Male,Salaried,237500,2
+BRW_62,62,Male,Salaried,106155,2
+BRW_63,24,Male,Salaried,15281,1
+BRW_64,49,Female,Salaried,173492,0
+BRW_65,38,Female,Self-Employed,226968,3
+BRW_66,46,Male,Salaried,185102,1
+BRW_67,64,Female,Salaried,147130,3
+BRW_68,54,Male,Salaried,232285,3
+BRW_69,30,Male,Salaried,91260,0
+BRW_70,56,Female,Self-Employed,174476,2
+BRW_71,34,Male,Salaried,249554,0
+BRW_72,51,Male,Self-Employed,175928,3
+BRW_73,35,Female,Salaried,155272,1
+BRW_74,28,Male,Salaried,79178,3
+BRW_75,34,Male,Self-Employed,48997,1
+BRW_76,43,Male,Salaried,171683,1
+BRW_77,60,Male,Self-Employed,134273,0
+BRW_78,41,Male,Salaried,187307,3
+BRW_79,36,Male,Salaried,181129,2
+BRW_80,38,Female,Business Owner,147311,3
+BRW_81,44,Female,Salaried,249746,3
+BRW_82,46,Female,Salaried,211733,2
+BRW_83,45,Female,Self-Employed,141945,0
+BRW_84,61,Female,Salaried,60272,3
+BRW_85,49,Male,Self-Employed,104393,3
+BRW_86,35,Male,Salaried,76212,1
+BRW_87,21,Male,Business Owner,161470,3
+BRW_88,45,Male,Self-Employed,135030,2
+BRW_89,27,Male,Self-Employed,71503,1
+BRW_90,29,Male,Business Owner,152710,0
+BRW_91,44,Female,Salaried,21570,1
+BRW_92,21,Female,Business Owner,83785,2
+BRW_93,64,Male,Salaried,24110,2
+BRW_94,28,Male,Salaried,94141,1
+BRW_95,44,Male,Salaried,27115,0
+BRW_96,31,Female,Salaried,54062,1
+BRW_97,37,Female,Salaried,37911,0
+BRW_98,28,Male,Self-Employed,119061,1
+BRW_99,55,Female,Self-Employed,47556,2
+BRW_100,55,Male,Business Owner,224203,3
+BRW_101,53,Male,Salaried,143335,3
+BRW_102,25,Male,Self-Employed,16969,0
+BRW_103,62,Male,Salaried,58753,0
+BRW_104,59,Female,Salaried,228883,0
+BRW_105,61,Female,Salaried,150542,2
+BRW_106,48,Male,Salaried,136863,1
+BRW_107,27,Female,Self-Employed,25225,2
+BRW_108,29,Female,Salaried,138008,3
+BRW_109,28,Female,Salaried,169268,0
+BRW_110,32,Male,Salaried,120823,1
+BRW_111,54,Male,Salaried,28669,3
+BRW_112,53,Male,Salaried,183452,3
+BRW_113,43,Male,Business Owner,139398,3
+BRW_114,44,Male,Salaried,125677,2
+BRW_115,57,Female,Salaried,63320,0
+BRW_116,55,Male,Salaried,193486,3
+BRW_117,64,Male,Self-Employed,249614,0
+BRW_118,60,Male,Business Owner,161649,2
+BRW_119,42,Male,Self-Employed,140354,3
+BRW_120,47,Male,Self-Employed,103009,2
+BRW_121,55,Male,Salaried,201481,2
+BRW_122,21,Male,Salaried,43625,0
+BRW_123,55,Male,Business Owner,227112,3
+BRW_124,57,Male,Self-Employed,39089,2
+BRW_125,34,Female,Self-Employed,51487,3
+BRW_126,23,Male,Self-Employed,211910,0
+BRW_127,21,Male,Self-Employed,243071,2
+BRW_128,25,Male,Self-Employed,125448,0
+BRW_129,46,Female,Business Owner,240867,3
+BRW_130,34,Male,Business Owner,65138,3
+BRW_131,59,Male,Self-Employed,188895,0
+BRW_132,47,Female,Self-Employed,183280,1
+BRW_133,29,Male,Salaried,69061,2
+BRW_134,35,Female,Self-Employed,176731,3
+BRW_135,35,Male,Salaried,116376,3
+BRW_136,46,Male,Salaried,177962,2
+BRW_137,62,Male,Business Owner,94134,0
+BRW_138,33,Female,Salaried,62055,0
+BRW_139,52,Male,Salaried,34508,0
+BRW_140,59,Female,Salaried,188359,1
+BRW_141,52,Male,Salaried,224988,1
+BRW_142,24,Female,Self-Employed,173056,3
+BRW_143,50,Male,Salaried,125169,0
+BRW_144,57,Female,Salaried,23125,2
+BRW_145,43,Male,Salaried,51059,3
+BRW_146,59,Male,Self-Employed,215641,2
+BRW_147,35,Male,Self-Employed,118409,3
+BRW_148,63,Male,Salaried,163159,1
+BRW_149,49,Male,Salaried,20704,3
+BRW_150,56,Male,Salaried,206648,1
+BRW_151,33,Female,Self-Employed,219456,3
+BRW_152,52,Male,Self-Employed,233200,0
+BRW_153,27,Female,Salaried,126279,2
+BRW_154,42,Female,Salaried,218532,0
+BRW_155,48,Male,Salaried,173280,3
+BRW_156,22,Female,Self-Employed,133516,3
+BRW_157,62,Female,Salaried,231222,3
+BRW_158,26,Male,Salaried,212096,1
+BRW_159,48,Male,Salaried,185954,2
+BRW_160,48,Male,Salaried,171995,2
+BRW_161,64,Male,Self-Employed,129044,3
+BRW_162,64,Male,Salaried,247549,3
+BRW_163,40,Male,Self-Employed,44165,1
+BRW_164,50,Female,Self-Employed,82203,0
+BRW_165,31,Female,Salaried,237821,0
+BRW_166,48,Male,Salaried,19114,2
+BRW_167,45,Male,Self-Employed,211037,1
+BRW_168,59,Male,Salaried,51321,3
+BRW_169,53,Male,Salaried,88297,2
+BRW_170,21,Male,Business Owner,111652,1
+BRW_171,47,Female,Salaried,114304,0
+BRW_172,33,Male,Salaried,171498,1
+BRW_173,61,Female,Salaried,32772,0
+BRW_174,23,Female,Business Owner,118754,1
+BRW_175,59,Male,Salaried,18712,2
+BRW_176,26,Female,Salaried,147439,0
+BRW_177,28,Male,Salaried,130142,2
+BRW_178,47,Male,Salaried,106736,2
+BRW_179,29,Male,Salaried,66924,0
+BRW_180,57,Female,Salaried,18726,0
+BRW_181,53,Female,Salaried,104152,3
+BRW_182,62,Female,Salaried,42723,3
+BRW_183,64,Female,Salaried,141969,3
+BRW_184,44,Female,Salaried,249182,2
+BRW_185,35,Female,Salaried,115494,2
+BRW_186,52,Female,Salaried,155180,3
+BRW_187,52,Female,Self-Employed,223786,2
+BRW_188,44,Male,Salaried,50643,2
+BRW_189,61,Male,Salaried,177396,0
+BRW_190,32,Female,Salaried,118896,0
+BRW_191,59,Male,Self-Employed,229432,2
+BRW_192,22,Male,Self-Employed,154999,3
+BRW_193,23,Female,Salaried,108680,1
+BRW_194,57,Male,Salaried,111546,3
+BRW_195,37,Male,Business Owner,168515,1
+BRW_196,22,Female,Salaried,94973,3
+BRW_197,22,Female,Salaried,78449,0
+BRW_198,48,Male,Salaried,124834,2
+BRW_199,43,Female,Salaried,222815,2
+BRW_200,57,Female,Business Owner,206305,0
+BRW_201,52,Male,Self-Employed,40537,1
+BRW_202,53,Male,Salaried,247365,1
+BRW_203,21,Female,Salaried,92576,1
+BRW_204,39,Male,Business Owner,122522,0
+BRW_205,22,Male,Self-Employed,37612,1
+BRW_206,64,Male,Self-Employed,240049,0
+BRW_207,46,Male,Business Owner,21471,3
+BRW_208,52,Male,Business Owner,181703,3
+BRW_209,26,Male,Self-Employed,238131,0
+BRW_210,52,Male,Salaried,46348,2
+BRW_211,24,Male,Salaried,210804,3
+BRW_212,31,Female,Self-Employed,16177,1
+BRW_213,37,Male,Salaried,150832,0
+BRW_214,58,Female,Self-Employed,47779,1
+BRW_215,44,Male,Salaried,36636,1
+BRW_216,25,Female,Salaried,96889,2
+BRW_217,54,Male,Salaried,68551,1
+BRW_218,26,Female,Salaried,157628,2
+BRW_219,42,Female,Business Owner,173670,3
+BRW_220,31,Male,Self-Employed,157635,0
+BRW_221,36,Female,Self-Employed,61819,1
+BRW_222,53,Male,Self-Employed,88770,0
+BRW_223,29,Male,Salaried,237127,1
+BRW_224,26,Male,Salaried,173038,0
+BRW_225,36,Male,Salaried,227781,1
+BRW_226,49,Male,Salaried,205961,1
+BRW_227,23,Male,Salaried,173059,1
+BRW_228,40,Female,Salaried,93714,1
+BRW_229,56,Male,Salaried,204420,1
+BRW_230,39,Male,Business Owner,39596,1
+BRW_231,46,Male,Self-Employed,179246,1
+BRW_232,23,Male,Salaried,79106,1
+BRW_233,39,Male,Self-Employed,216039,1
+BRW_234,40,Female,Self-Employed,74182,0
+BRW_235,52,Male,Salaried,239372,2
+BRW_236,27,Male,Self-Employed,102163,1
+BRW_237,61,Male,Self-Employed,54310,2
+BRW_238,53,Male,Salaried,71088,1
+BRW_239,60,Female,Salaried,143803,1
+BRW_240,59,Male,Salaried,154978,0
+BRW_241,38,Male,Salaried,51914,3
+BRW_242,60,Female,Salaried,125350,3
+BRW_243,21,Male,Self-Employed,60379,0
+BRW_244,31,Female,Salaried,224684,2
+BRW_245,48,Male,Salaried,183722,3
+BRW_246,45,Female,Business Owner,192953,0
+BRW_247,43,Male,Self-Employed,61413,0
+BRW_248,51,Female,Salaried,152084,3
+BRW_249,50,Male,Salaried,196187,2
+BRW_250,62,Male,Salaried,22151,0
+BRW_251,55,Male,Self-Employed,72716,1
+BRW_252,27,Female,Salaried,108747,2
+BRW_253,36,Female,Salaried,238725,2
+BRW_254,46,Female,Business Owner,182450,3
+BRW_255,22,Male,Salaried,188724,3
+BRW_256,21,Female,Self-Employed,218502,1
+BRW_257,32,Male,Business Owner,159539,0
+BRW_258,25,Male,Salaried,177082,3
+BRW_259,57,Male,Self-Employed,136999,3
+BRW_260,52,Female,Salaried,129793,2
+BRW_261,29,Male,Business Owner,200763,3
+BRW_262,61,Male,Salaried,210229,3
+BRW_263,55,Female,Self-Employed,123177,3
+BRW_264,39,Male,Salaried,27289,3
+BRW_265,36,Male,Self-Employed,191048,2
+BRW_266,23,Male,Self-Employed,189668,1
+BRW_267,40,Male,Salaried,169243,1
+BRW_268,44,Male,Self-Employed,246513,0
+BRW_269,53,Male,Salaried,101365,3
+BRW_270,44,Female,Salaried,245662,2
+BRW_271,31,Male,Salaried,129014,0
+BRW_272,28,Male,Salaried,190211,0
+BRW_273,56,Female,Salaried,194785,1
+BRW_274,58,Male,Business Owner,175806,2
+BRW_275,60,Male,Salaried,87588,2
+BRW_276,40,Male,Self-Employed,78646,2
+BRW_277,55,Male,Salaried,18654,1
+BRW_278,45,Male,Self-Employed,235094,1
+BRW_279,55,Female,Business Owner,33743,1
+BRW_280,45,Female,Salaried,63368,1
+BRW_281,49,Male,Self-Employed,236097,1
+BRW_282,38,Male,Salaried,220244,3
+BRW_283,38,Male,Self-Employed,152513,3
+BRW_284,22,Female,Salaried,134735,2
+BRW_285,55,Male,Business Owner,170683,0
+BRW_286,36,Male,Salaried,134891,2
+BRW_287,61,Male,Salaried,122971,0
+BRW_288,56,Male,Self-Employed,27149,1
+BRW_289,53,Female,Salaried,115102,0
+BRW_290,24,Male,Salaried,74189,2
+BRW_291,53,Female,Salaried,167747,2
+BRW_292,34,Male,Salaried,86031,0
+BRW_293,41,Female,Salaried,57668,3
+BRW_294,40,Male,Salaried,159745,1
+BRW_295,28,Male,Salaried,222738,1
+BRW_296,27,Female,Salaried,103204,2
+BRW_297,23,Female,Self-Employed,226830,3
+BRW_298,37,Female,Salaried,211501,0
+BRW_299,53,Male,Salaried,169741,1
+BRW_300,32,Female,Salaried,180140,3
+BRW_301,42,Male,Salaried,234861,1
+BRW_302,42,Female,Self-Employed,155507,3
+BRW_303,50,Male,Salaried,240160,3
+BRW_304,58,Female,Salaried,198321,2
+BRW_305,58,Female,Self-Employed,52384,1
+BRW_306,28,Female,Self-Employed,96929,0
+BRW_307,47,Male,Salaried,142959,2
+BRW_308,47,Male,Self-Employed,91153,2
+BRW_309,54,Female,Business Owner,90388,0
+BRW_310,41,Male,Salaried,46401,2
+BRW_311,50,Female,Self-Employed,217903,3
+BRW_312,53,Female,Self-Employed,134503,3
+BRW_313,48,Male,Salaried,247601,1
+BRW_314,53,Female,Salaried,142834,1
+BRW_315,25,Male,Salaried,49084,0
+BRW_316,39,Female,Self-Employed,125641,1
+BRW_317,24,Female,Business Owner,120111,3
+BRW_318,55,Male,Self-Employed,201898,0
+BRW_319,37,Male,Salaried,182523,0
+BRW_320,64,Female,Self-Employed,153299,1
+BRW_321,48,Male,Salaried,177982,3
+BRW_322,50,Male,Salaried,51041,0
+BRW_323,49,Male,Salaried,103920,3
+BRW_324,26,Male,Self-Employed,80681,3
+BRW_325,55,Male,Salaried,249386,3
+BRW_326,61,Male,Self-Employed,96571,1
+BRW_327,57,Male,Salaried,211553,2
+BRW_328,44,Female,Salaried,214648,2
+BRW_329,49,Male,Salaried,142556,0
+BRW_330,51,Male,Salaried,210246,3
+BRW_331,55,Male,Business Owner,41160,1
+BRW_332,53,Male,Salaried,32633,3
+BRW_333,41,Male,Self-Employed,240952,3
+BRW_334,52,Female,Salaried,32014,1
+BRW_335,43,Female,Self-Employed,95532,2
+BRW_336,53,Male,Salaried,64104,3
+BRW_337,23,Female,Self-Employed,187693,3
+BRW_338,38,Female,Self-Employed,92231,2
+BRW_339,45,Male,Salaried,83388,1
+BRW_340,62,Female,Salaried,31014,0
+BRW_341,51,Female,Self-Employed,107578,2
+BRW_342,23,Male,Business Owner,179827,0
+BRW_343,60,Male,Salaried,55390,0
+BRW_344,44,Female,Self-Employed,38711,2
+BRW_345,52,Female,Business Owner,106658,3
+BRW_346,42,Male,Self-Employed,72993,0
+BRW_347,43,Female,Business Owner,220768,0
+BRW_348,22,Female,Self-Employed,173285,1
+BRW_349,47,Female,Salaried,203856,3
+BRW_350,62,Female,Salaried,22421,0
+BRW_351,22,Female,Salaried,233008,1
+BRW_352,46,Male,Self-Employed,245145,3
+BRW_353,37,Male,Self-Employed,32727,2
+BRW_354,60,Female,Salaried,127418,2
+BRW_355,53,Female,Self-Employed,19358,1
+BRW_356,29,Male,Self-Employed,80108,2
+BRW_357,63,Male,Salaried,109018,0
+BRW_358,59,Female,Salaried,139457,3
+BRW_359,49,Male,Salaried,178189,0
+BRW_360,62,Female,Salaried,234772,0
+BRW_361,46,Female,Salaried,46910,2
+BRW_362,55,Female,Salaried,141888,0
+BRW_363,45,Male,Salaried,244104,2
+BRW_364,44,Male,Salaried,70754,3
+BRW_365,33,Male,Salaried,208510,3
+BRW_366,27,Male,Salaried,124847,0
+BRW_367,56,Male,Self-Employed,175443,1
+BRW_368,40,Male,Salaried,197573,2
+BRW_369,21,Male,Business Owner,207018,2
+BRW_370,28,Male,Business Owner,53467,0
+BRW_371,36,Male,Salaried,163697,2
+BRW_372,34,Male,Salaried,48893,2
+BRW_373,32,Male,Salaried,91329,1
+BRW_374,43,Female,Salaried,46007,1
+BRW_375,35,Female,Self-Employed,237374,0
+BRW_376,48,Male,Salaried,185604,1
+BRW_377,54,Female,Salaried,69253,0
+BRW_378,22,Male,Salaried,27323,3
+BRW_379,52,Female,Salaried,126335,0
+BRW_380,43,Male,Self-Employed,127356,3
+BRW_381,42,Female,Salaried,125944,0
+BRW_382,45,Female,Salaried,219451,2
+BRW_383,42,Female,Salaried,160282,1
+BRW_384,42,Female,Business Owner,31456,3
+BRW_385,62,Male,Salaried,46367,0
+BRW_386,26,Male,Salaried,69624,1
+BRW_387,35,Female,Self-Employed,156178,0
+BRW_388,63,Male,Salaried,249565,1
+BRW_389,57,Female,Business Owner,83008,1
+BRW_390,53,Male,Self-Employed,140926,0
+BRW_391,28,Male,Self-Employed,130395,3
+BRW_392,64,Male,Self-Employed,131492,3
+BRW_393,64,Male,Business Owner,87240,2
+BRW_394,25,Female,Business Owner,79315,1
+BRW_395,59,Male,Self-Employed,215321,2
+BRW_396,24,Male,Self-Employed,216659,2
+BRW_397,26,Male,Salaried,25756,0
+BRW_398,52,Male,Salaried,214083,0
+BRW_399,50,Female,Salaried,51378,0
+BRW_400,55,Male,Salaried,150327,1
+BRW_401,60,Male,Salaried,160556,0
+BRW_402,36,Male,Salaried,140703,0
+BRW_403,33,Female,Salaried,71549,1
+BRW_404,62,Male,Self-Employed,180575,1
+BRW_405,50,Female,Business Owner,88794,3
+BRW_406,39,Female,Salaried,246804,0
+BRW_407,37,Male,Salaried,60113,0
+BRW_408,39,Male,Self-Employed,89069,0
+BRW_409,48,Male,Salaried,244189,3
+BRW_410,46,Male,Self-Employed,151321,0
+BRW_411,57,Female,Salaried,165273,3
+BRW_412,46,Female,Salaried,140541,2
+BRW_413,43,Male,Business Owner,204648,3
+BRW_414,29,Male,Salaried,24686,2
+BRW_415,32,Male,Self-Employed,68363,0
+BRW_416,21,Female,Self-Employed,112543,2
+BRW_417,21,Male,Salaried,146733,3
+BRW_418,54,Male,Self-Employed,190915,1
+BRW_419,52,Female,Business Owner,110673,2
+BRW_420,45,Female,Salaried,207035,2
+BRW_421,60,Male,Self-Employed,57828,0
+BRW_422,21,Female,Salaried,63604,3
+BRW_423,36,Female,Self-Employed,25526,2
+BRW_424,59,Male,Self-Employed,83910,2
+BRW_425,25,Male,Salaried,40592,2
+BRW_426,42,Male,Business Owner,43982,2
+BRW_427,49,Male,Business Owner,15207,1
+BRW_428,23,Female,Self-Employed,247041,3
+BRW_429,32,Female,Self-Employed,103733,0
+BRW_430,46,Male,Self-Employed,245008,0
+BRW_431,36,Male,Salaried,139982,1
+BRW_432,57,Male,Self-Employed,83619,3
+BRW_433,42,Male,Salaried,175400,2
+BRW_434,49,Female,Salaried,61479,1
+BRW_435,34,Male,Self-Employed,166175,3
+BRW_436,48,Male,Salaried,185963,2
+BRW_437,25,Male,Salaried,156826,1
+BRW_438,50,Female,Salaried,246055,3
+BRW_439,25,Male,Salaried,96437,0
+BRW_440,32,Female,Self-Employed,113540,0
+BRW_441,36,Male,Salaried,87982,3
+BRW_442,46,Female,Self-Employed,117747,0
+BRW_443,46,Female,Salaried,201994,3
+BRW_444,41,Male,Self-Employed,63231,2
+BRW_445,59,Male,Salaried,44301,3
+BRW_446,56,Female,Salaried,237724,2
+BRW_447,53,Female,Self-Employed,208783,1
+BRW_448,50,Male,Self-Employed,187395,3
+BRW_449,57,Male,Salaried,33752,1
+BRW_450,43,Female,Salaried,243984,0
+BRW_451,30,Male,Salaried,228277,2
+BRW_452,25,Male,Salaried,113452,3
+BRW_453,56,Female,Self-Employed,159467,1
+BRW_454,54,Male,Salaried,232029,2
+BRW_455,51,Male,Salaried,136237,2
+BRW_456,30,Male,Salaried,71273,0
+BRW_457,39,Male,Salaried,106878,0
+BRW_458,52,Male,Salaried,19895,2
+BRW_459,21,Female,Salaried,134968,2
+BRW_460,25,Male,Salaried,130700,3
+BRW_461,24,Male,Salaried,91559,2
+BRW_462,36,Male,Self-Employed,25699,3
+BRW_463,44,Male,Salaried,211133,2
+BRW_464,36,Female,Business Owner,24715,0
+BRW_465,22,Male,Salaried,34169,3
+BRW_466,48,Male,Self-Employed,133413,1
+BRW_467,52,Female,Self-Employed,162235,0
+BRW_468,47,Male,Self-Employed,134264,3
+BRW_469,40,Male,Self-Employed,20782,3
+BRW_470,44,Male,Salaried,234249,1
+BRW_471,32,Male,Salaried,139481,3
+BRW_472,55,Male,Salaried,230400,2
+BRW_473,53,Male,Salaried,50585,1
+BRW_474,53,Female,Salaried,45682,0
+BRW_475,63,Male,Salaried,193936,0
+BRW_476,57,Male,Self-Employed,144992,2
+BRW_477,32,Female,Salaried,99416,0
+BRW_478,23,Male,Self-Employed,201186,3
+BRW_479,21,Female,Self-Employed,142810,3
+BRW_480,53,Male,Business Owner,53067,2
+BRW_481,60,Male,Salaried,188757,0
+BRW_482,30,Female,Salaried,33073,0
+BRW_483,63,Male,Salaried,51035,2
+BRW_484,64,Male,Salaried,211049,1
+BRW_485,49,Male,Self-Employed,248782,0
+BRW_486,33,Male,Salaried,105373,1
+BRW_487,32,Female,Self-Employed,98362,0
+BRW_488,51,Male,Salaried,105517,0
+BRW_489,22,Male,Self-Employed,80450,0
+BRW_490,55,Male,Self-Employed,25382,0
+BRW_491,43,Female,Salaried,150509,3
+BRW_492,37,Male,Salaried,217043,1
+BRW_493,46,Female,Salaried,210684,1
+BRW_494,28,Male,Salaried,236427,0
+BRW_495,49,Female,Salaried,76929,0
+BRW_496,46,Female,Salaried,248483,1
+BRW_497,30,Female,Salaried,243590,3
+BRW_498,46,Female,Salaried,113864,2
+BRW_499,54,Male,Salaried,158401,2
+BRW_500,61,Male,Self-Employed,40169,1

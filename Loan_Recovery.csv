@@ -1,0 +1,501 @@
+Loan_ID,Month,Year,Outstanding_Loan_Amount,Monthly_EMI,Payment_History,Num_Missed_Payments,Days_Past_Due,Recovery_Status,Collection_Attempts,Collection_Method,Legal_Action_Taken
+LN_1,February,2025,291413.0058,4856.88,On-Time,0,0,Partially Recovered,1,Settlement Offer,No
+LN_2,April,2025,665204.1539,55433.68,On-Time,0,0,Fully Recovered,2,Settlement Offer,No
+LN_3,May,2025,1031371.997,14324.61,Delayed,2,124,Fully Recovered,2,Legal Notice,No
+LN_4,January,2025,224973.9213,6249.28,On-Time,1,56,Fully Recovered,2,Calls,No
+LN_5,May,2025,39189.89201,816.46,On-Time,1,69,Fully Recovered,0,Debt Collectors,No
+LN_6,May,2025,129965.525,3610.15,On-Time,1,111,Partially Recovered,6,Legal Notice,No
+LN_7,March,2025,875490.4233,14591.51,On-Time,0,0,Partially Recovered,8,Debt Collectors,No
+LN_8,May,2025,416121.3809,34676.78,Delayed,0,0,Fully Recovered,0,Settlement Offer,No
+LN_9,April,2025,168733.8015,2343.53,On-Time,3,124,Fully Recovered,3,Settlement Offer,No
+LN_10,January,2025,133190.6548,2219.84,Delayed,0,0,Partially Recovered,6,Legal Notice,No
+LN_11,May,2025,292208.2482,12175.34,On-Time,0,0,Fully Recovered,0,Calls,No
+LN_12,May,2025,1207474.979,20124.58,On-Time,0,0,Fully Recovered,1,Settlement Offer,No
+LN_13,February,2025,1152937.233,19215.62,Delayed,1,7,Written Off,8,Debt Collectors,No
+LN_14,May,2025,62675.68261,1305.74,Missed,3,99,Fully Recovered,2,Debt Collectors,No
+LN_15,February,2025,638903.2371,17747.31,Delayed,0,0,Written Off,9,Legal Notice,No
+LN_16,April,2025,1287474.561,35763.18,On-Time,1,86,Fully Recovered,3,Debt Collectors,No
+LN_17,January,2025,703320.0212,29305,On-Time,3,171,Fully Recovered,3,Calls,No
+LN_18,January,2025,608360.7565,16898.91,Delayed,1,173,Fully Recovered,0,Settlement Offer,No
+LN_19,February,2025,176912.4284,2457.12,On-Time,3,103,Written Off,3,Debt Collectors,Yes
+LN_20,April,2025,137808.1418,11484.01,On-Time,2,42,Fully Recovered,2,Debt Collectors,No
+LN_21,January,2025,377449.7725,6290.83,Delayed,0,0,Fully Recovered,1,Settlement Offer,No
+LN_22,February,2025,96882.95053,2691.19,Delayed,1,119,Written Off,4,Legal Notice,No
+LN_23,January,2025,214915.5181,4477.41,Missed,11,32,Fully Recovered,3,Debt Collectors,No
+LN_24,February,2025,161329.3896,2688.82,Missed,6,159,Fully Recovered,3,Legal Notice,No
+LN_25,February,2025,757142.0807,10515.86,Delayed,2,136,Fully Recovered,0,Legal Notice,No
+LN_26,February,2025,1436350.599,39898.63,On-Time,2,6,Partially Recovered,0,Debt Collectors,No
+LN_27,March,2025,1561797.418,32537.45,On-Time,1,100,Fully Recovered,1,Calls,No
+LN_28,February,2025,1059348.939,29426.36,On-Time,1,151,Fully Recovered,1,Legal Notice,No
+LN_29,February,2025,1155408.573,96284.05,On-Time,2,144,Fully Recovered,2,Debt Collectors,No
+LN_30,May,2025,1297293.682,36035.94,On-Time,0,0,Fully Recovered,0,Legal Notice,No
+LN_31,January,2025,127493.1313,2656.11,On-Time,0,0,Written Off,8,Settlement Offer,Yes
+LN_32,February,2025,156648.6033,4351.35,On-Time,3,169,Written Off,6,Calls,No
+LN_33,January,2025,177563.5078,2959.39,On-Time,0,0,Partially Recovered,1,Calls,No
+LN_34,April,2025,156364.7808,4343.47,On-Time,2,6,Partially Recovered,3,Settlement Offer,No
+LN_35,March,2025,670752.524,13974.01,On-Time,2,21,Partially Recovered,1,Settlement Offer,No
+LN_36,April,2025,395791.5391,10994.21,On-Time,2,164,Fully Recovered,3,Legal Notice,No
+LN_37,May,2025,243672.6601,4061.21,Delayed,0,0,Partially Recovered,1,Settlement Offer,No
+LN_38,January,2025,517458.9524,7186.93,On-Time,3,109,Fully Recovered,1,Calls,No
+LN_39,May,2025,889936.5313,18540.34,On-Time,0,0,Fully Recovered,3,Settlement Offer,No
+LN_40,April,2025,336146.1217,5602.44,Delayed,3,34,Partially Recovered,4,Debt Collectors,No
+LN_41,May,2025,446444.4487,12401.23,On-Time,0,0,Fully Recovered,2,Debt Collectors,No
+LN_42,April,2025,850926.6114,17727.64,On-Time,2,118,Partially Recovered,6,Legal Notice,No
+LN_43,January,2025,920061.9222,25557.28,On-Time,2,46,Fully Recovered,3,Calls,No
+LN_44,January,2025,515038.1865,14306.62,On-Time,1,12,Partially Recovered,7,Debt Collectors,No
+LN_45,April,2025,279074.2556,4651.24,Missed,11,66,Fully Recovered,1,Settlement Offer,No
+LN_46,March,2025,319736.8334,4440.79,On-Time,0,0,Partially Recovered,7,Debt Collectors,No
+LN_47,January,2025,628650.5775,26193.77,Delayed,0,0,Partially Recovered,8,Debt Collectors,No
+LN_48,February,2025,536036.7825,11167.43,On-Time,1,97,Fully Recovered,1,Legal Notice,No
+LN_49,January,2025,507429.1331,10571.44,On-Time,2,83,Fully Recovered,3,Settlement Offer,No
+LN_50,March,2025,1342401.143,55933.38,On-Time,0,0,Fully Recovered,1,Settlement Offer,No
+LN_51,March,2025,98091.74646,4087.16,On-Time,1,54,Fully Recovered,1,Settlement Offer,No
+LN_52,March,2025,1003220.897,27867.25,On-Time,0,0,Partially Recovered,1,Legal Notice,No
+LN_53,February,2025,270256.3635,11260.68,On-Time,3,116,Written Off,4,Settlement Offer,Yes
+LN_54,January,2025,82673.80841,3444.74,On-Time,2,83,Fully Recovered,3,Settlement Offer,No
+LN_55,April,2025,42612.46821,1183.68,Delayed,3,86,Partially Recovered,5,Debt Collectors,No
+LN_56,January,2025,1074385.856,29844.05,On-Time,2,97,Partially Recovered,8,Debt Collectors,No
+LN_57,April,2025,1440657.065,24010.95,Delayed,1,71,Fully Recovered,2,Settlement Offer,No
+LN_58,April,2025,736511.1544,15343.98,Delayed,2,107,Partially Recovered,0,Calls,No
+LN_59,May,2025,1241198.183,17238.86,On-Time,2,64,Partially Recovered,4,Calls,No
+LN_60,April,2025,742843.3926,20634.54,On-Time,1,20,Fully Recovered,2,Settlement Offer,No
+LN_61,May,2025,1101165.301,18352.76,On-Time,2,120,Fully Recovered,3,Calls,No
+LN_62,March,2025,129620.2199,1800.28,Delayed,0,0,Fully Recovered,1,Legal Notice,No
+LN_63,April,2025,102084.5465,1701.41,On-Time,1,4,Written Off,7,Debt Collectors,No
+LN_64,April,2025,711068.1331,19751.89,Delayed,1,138,Written Off,8,Legal Notice,No
+LN_65,May,2025,52577.2793,876.29,On-Time,1,13,Partially Recovered,7,Debt Collectors,No
+LN_66,May,2025,153026.9581,6376.12,Delayed,3,89,Fully Recovered,2,Calls,No
+LN_67,February,2025,281352.5974,7815.35,On-Time,3,57,Fully Recovered,2,Calls,No
+LN_68,February,2025,814388.7908,16966.43,Delayed,2,166,Fully Recovered,3,Settlement Offer,No
+LN_69,April,2025,124668.8462,2597.27,On-Time,1,17,Fully Recovered,3,Calls,No
+LN_70,February,2025,920342.9713,76695.25,On-Time,2,166,Partially Recovered,5,Calls,No
+LN_71,March,2025,1138870.722,15817.65,On-Time,0,0,Written Off,3,Settlement Offer,Yes
+LN_72,February,2025,217488.3417,3624.81,On-Time,1,10,Written Off,3,Settlement Offer,No
+LN_73,March,2025,240573.1411,5011.94,Missed,0,0,Partially Recovered,9,Debt Collectors,No
+LN_74,January,2025,381265.6772,5295.36,On-Time,2,7,Fully Recovered,3,Calls,No
+LN_75,March,2025,1403817.729,38994.94,On-Time,3,63,Fully Recovered,1,Debt Collectors,No
+LN_76,May,2025,100554.2448,1396.59,On-Time,2,51,Fully Recovered,3,Debt Collectors,No
+LN_77,April,2025,398402.2627,8300.05,On-Time,0,0,Partially Recovered,0,Legal Notice,No
+LN_78,May,2025,809930.7318,33747.11,On-Time,1,5,Partially Recovered,5,Calls,No
+LN_79,January,2025,279213.6725,4653.56,Delayed,2,159,Fully Recovered,3,Calls,No
+LN_80,January,2025,96824.94944,1613.75,On-Time,1,39,Fully Recovered,3,Legal Notice,No
+LN_81,May,2025,1480156.161,24669.27,Missed,10,61,Fully Recovered,3,Debt Collectors,No
+LN_82,March,2025,309070.2956,4292.64,On-Time,3,32,Fully Recovered,1,Calls,No
+LN_83,March,2025,232572.5088,3876.21,On-Time,3,121,Fully Recovered,3,Debt Collectors,No
+LN_84,March,2025,891816.1638,18579.5,Delayed,3,171,Fully Recovered,0,Legal Notice,No
+LN_85,February,2025,196656.9735,2731.35,Delayed,1,29,Fully Recovered,1,Settlement Offer,No
+LN_86,January,2025,525143.5425,8752.39,On-Time,2,144,Partially Recovered,8,Debt Collectors,No
+LN_87,January,2025,315879.6156,8774.43,Delayed,1,55,Fully Recovered,2,Calls,No
+LN_88,May,2025,162855.7528,2261.89,On-Time,1,119,Fully Recovered,0,Settlement Offer,No
+LN_89,March,2025,422760.7119,17615.03,On-Time,2,179,Fully Recovered,3,Debt Collectors,No
+LN_90,April,2025,483715.6869,8061.93,Delayed,3,65,Fully Recovered,0,Debt Collectors,No
+LN_91,February,2025,1529224.948,21239.24,On-Time,3,94,Fully Recovered,3,Settlement Offer,No
+LN_92,March,2025,131426.5456,2190.44,On-Time,2,42,Fully Recovered,0,Settlement Offer,No
+LN_93,March,2025,474944.4224,7915.74,Delayed,1,155,Fully Recovered,1,Settlement Offer,No
+LN_94,May,2025,50073.18625,834.55,Missed,2,155,Fully Recovered,3,Calls,No
+LN_95,February,2025,412834.4395,8600.72,On-Time,3,29,Partially Recovered,10,Calls,No
+LN_96,March,2025,444004.5895,6166.73,On-Time,0,0,Fully Recovered,1,Debt Collectors,No
+LN_97,February,2025,71521.67772,2980.07,On-Time,0,0,Partially Recovered,1,Debt Collectors,No
+LN_98,January,2025,394388.8605,16432.87,Missed,1,41,Fully Recovered,3,Legal Notice,No
+LN_99,April,2025,99251.5917,2756.99,Delayed,1,79,Fully Recovered,2,Calls,No
+LN_100,January,2025,163346.394,3403.05,On-Time,1,27,Fully Recovered,2,Debt Collectors,No
+LN_101,May,2025,319734.9811,6661.15,On-Time,3,148,Fully Recovered,3,Settlement Offer,No
+LN_102,April,2025,33981.92251,566.37,On-Time,0,0,Written Off,10,Settlement Offer,Yes
+LN_103,May,2025,259855.6389,7218.21,Delayed,3,6,Partially Recovered,1,Calls,No
+LN_104,March,2025,234933.9163,4894.46,Delayed,3,79,Written Off,5,Settlement Offer,Yes
+LN_105,March,2025,1015520.845,84626.74,Delayed,3,147,Written Off,10,Legal Notice,No
+LN_106,February,2025,1222984.861,33971.8,Missed,8,173,Partially Recovered,8,Debt Collectors,No
+LN_107,February,2025,291631.5647,6075.66,On-Time,2,96,Fully Recovered,3,Debt Collectors,No
+LN_108,May,2025,589292.1521,49107.68,On-Time,0,0,Fully Recovered,2,Debt Collectors,No
+LN_109,February,2025,53007.78699,1472.44,On-Time,0,0,Written Off,10,Calls,No
+LN_110,March,2025,279236.2549,11634.84,On-Time,2,101,Partially Recovered,7,Settlement Offer,No
+LN_111,March,2025,955922.92,79660.24,On-Time,2,50,Fully Recovered,0,Legal Notice,No
+LN_112,April,2025,56895.36977,1185.32,On-Time,0,0,Partially Recovered,9,Calls,No
+LN_113,January,2025,70542.37255,2939.27,Delayed,2,19,Fully Recovered,0,Debt Collectors,No
+LN_114,January,2025,244140.6594,4069.01,Delayed,3,151,Fully Recovered,1,Legal Notice,No
+LN_115,May,2025,578626.2135,9643.77,On-Time,1,176,Fully Recovered,2,Debt Collectors,No
+LN_116,February,2025,100394.5938,2091.55,On-Time,3,160,Partially Recovered,3,Debt Collectors,No
+LN_117,March,2025,680411.8483,9450.16,On-Time,0,0,Partially Recovered,1,Calls,No
+LN_118,March,2025,665429.675,13863.12,Delayed,2,62,Fully Recovered,3,Debt Collectors,No
+LN_119,March,2025,1007990.87,20999.81,Delayed,1,26,Fully Recovered,0,Legal Notice,No
+LN_120,March,2025,490032.6529,6806.01,On-Time,0,0,Fully Recovered,0,Debt Collectors,No
+LN_121,January,2025,1235248.916,51468.7,On-Time,2,178,Partially Recovered,7,Settlement Offer,No
+LN_122,February,2025,437200.7094,6072.23,On-Time,1,77,Fully Recovered,1,Debt Collectors,No
+LN_123,January,2025,723845.4818,60320.46,On-Time,1,175,Fully Recovered,2,Calls,No
+LN_124,April,2025,85488.4951,2374.68,On-Time,2,153,Fully Recovered,0,Legal Notice,No
+LN_125,February,2025,284577.5377,23714.79,Delayed,1,30,Fully Recovered,0,Calls,No
+LN_126,March,2025,195673.2642,3261.22,Delayed,0,0,Fully Recovered,2,Settlement Offer,No
+LN_127,March,2025,52957.61554,1103.28,On-Time,2,144,Partially Recovered,0,Debt Collectors,No
+LN_128,April,2025,730341.3955,12172.36,Delayed,3,10,Fully Recovered,2,Calls,No
+LN_129,February,2025,798983.0589,22193.97,Missed,0,0,Partially Recovered,5,Calls,No
+LN_130,May,2025,425034.0263,11806.5,On-Time,0,0,Fully Recovered,2,Calls,No
+LN_131,February,2025,790915.273,65909.61,On-Time,2,88,Fully Recovered,3,Calls,No
+LN_132,April,2025,606744.2156,16854.01,Missed,12,136,Fully Recovered,1,Settlement Offer,No
+LN_133,January,2025,234794.0878,3261.03,On-Time,2,109,Partially Recovered,3,Settlement Offer,No
+LN_134,February,2025,787026.4857,21861.85,Missed,3,169,Written Off,8,Debt Collectors,Yes
+LN_135,January,2025,382228.0266,6370.47,Missed,0,0,Written Off,6,Debt Collectors,No
+LN_136,March,2025,225250.9176,3754.18,Delayed,1,94,Fully Recovered,1,Legal Notice,No
+LN_137,March,2025,171413.1784,4761.48,Delayed,0,0,Fully Recovered,1,Settlement Offer,No
+LN_138,May,2025,204588.6963,4262.26,Delayed,0,0,Partially Recovered,2,Calls,No
+LN_139,March,2025,426709.6569,35559.14,Delayed,3,17,Partially Recovered,1,Calls,No
+LN_140,January,2025,1155829.786,48159.57,On-Time,0,0,Fully Recovered,3,Legal Notice,No
+LN_141,February,2025,1534190.723,127849.23,On-Time,1,129,Partially Recovered,9,Calls,No
+LN_142,April,2025,729545.2781,15198.86,On-Time,1,165,Fully Recovered,1,Legal Notice,No
+LN_143,May,2025,746005.8029,20722.38,Delayed,3,87,Fully Recovered,3,Debt Collectors,No
+LN_144,May,2025,363541.3632,7573.78,On-Time,1,3,Fully Recovered,1,Settlement Offer,No
+LN_145,April,2025,963989.8833,20083.12,On-Time,2,107,Fully Recovered,1,Legal Notice,No
+LN_146,February,2025,1337482.346,37152.29,On-Time,3,125,Fully Recovered,3,Calls,No
+LN_147,April,2025,450011.031,7500.18,Delayed,1,27,Fully Recovered,2,Legal Notice,No
+LN_148,March,2025,135521.9012,2258.7,Missed,8,110,Fully Recovered,3,Debt Collectors,No
+LN_149,February,2025,423464.5914,35288.72,Missed,12,92,Fully Recovered,2,Calls,No
+LN_150,February,2025,796901.937,33204.25,On-Time,1,162,Fully Recovered,0,Debt Collectors,No
+LN_151,January,2025,174851.1714,2914.19,Delayed,2,117,Partially Recovered,7,Debt Collectors,No
+LN_152,February,2025,801528.0373,22264.67,Delayed,3,39,Fully Recovered,2,Legal Notice,No
+LN_153,January,2025,123821.0941,2063.68,On-Time,2,111,Fully Recovered,1,Debt Collectors,No
+LN_154,February,2025,428739.2321,11909.42,On-Time,3,45,Fully Recovered,0,Calls,No
+LN_155,March,2025,1405426.027,39039.61,On-Time,3,133,Written Off,7,Debt Collectors,No
+LN_156,March,2025,1374050.885,57252.12,Missed,1,166,Fully Recovered,2,Debt Collectors,No
+LN_157,April,2025,113231.0525,3145.31,On-Time,1,69,Fully Recovered,2,Legal Notice,No
+LN_158,April,2025,251171.5425,5232.74,On-Time,1,157,Fully Recovered,3,Debt Collectors,No
+LN_159,January,2025,84786.73595,2355.19,Delayed,0,0,Partially Recovered,4,Settlement Offer,No
+LN_160,January,2025,441059.8081,7351,On-Time,2,137,Fully Recovered,3,Legal Notice,No
+LN_161,January,2025,183162.4804,2543.92,On-Time,0,0,Fully Recovered,2,Legal Notice,No
+LN_162,April,2025,83683.36148,1743.4,Delayed,1,123,Fully Recovered,1,Calls,No
+LN_163,April,2025,15712.83436,261.88,On-Time,1,119,Fully Recovered,3,Calls,No
+LN_164,May,2025,169628.3397,4711.9,Delayed,0,0,Partially Recovered,7,Calls,No
+LN_165,March,2025,844803.6111,23466.77,On-Time,0,0,Partially Recovered,1,Calls,No
+LN_166,February,2025,17239.97736,287.33,Delayed,0,0,Partially Recovered,3,Settlement Offer,No
+LN_167,February,2025,237664.2467,6601.78,Delayed,1,111,Partially Recovered,6,Legal Notice,No
+LN_168,March,2025,103122.8006,2148.39,On-Time,0,0,Fully Recovered,2,Debt Collectors,No
+LN_169,April,2025,392437.3639,16351.56,On-Time,0,0,Fully Recovered,2,Calls,No
+LN_170,April,2025,248037.7397,5167.45,Delayed,2,151,Partially Recovered,4,Calls,No
+LN_171,March,2025,309283.2179,4295.6,Delayed,0,0,Fully Recovered,0,Calls,No
+LN_172,March,2025,1247525.57,17326.74,Delayed,1,68,Partially Recovered,10,Debt Collectors,No
+LN_173,May,2025,983707.7581,16395.13,Delayed,2,82,Fully Recovered,3,Calls,No
+LN_174,April,2025,350017.4584,5833.62,On-Time,3,62,Fully Recovered,2,Debt Collectors,No
+LN_175,May,2025,802700.7771,16722.93,On-Time,1,22,Partially Recovered,0,Legal Notice,No
+LN_176,January,2025,1265836.323,26371.59,Missed,8,71,Partially Recovered,9,Legal Notice,No
+LN_177,April,2025,234737.873,9780.74,On-Time,1,115,Partially Recovered,10,Legal Notice,No
+LN_178,February,2025,211469.316,5874.15,On-Time,3,62,Fully Recovered,0,Settlement Offer,No
+LN_179,May,2025,881515.3287,18364.9,On-Time,1,118,Partially Recovered,9,Debt Collectors,No
+LN_180,May,2025,756550.0926,10507.64,On-Time,3,145,Fully Recovered,3,Calls,No
+LN_181,January,2025,404570.4566,11238.07,On-Time,3,156,Fully Recovered,2,Calls,No
+LN_182,January,2025,50698.23851,1056.21,Missed,3,171,Written Off,3,Calls,No
+LN_183,May,2025,1334283.208,27797.57,On-Time,0,0,Partially Recovered,9,Calls,No
+LN_184,January,2025,148903.2518,3102.15,On-Time,0,0,Fully Recovered,2,Settlement Offer,No
+LN_185,May,2025,289926.4988,4832.11,Missed,10,97,Partially Recovered,3,Calls,No
+LN_186,February,2025,117102.3844,4879.27,Missed,6,86,Fully Recovered,1,Settlement Offer,No
+LN_187,January,2025,80545.99702,1678.04,On-Time,2,7,Fully Recovered,2,Debt Collectors,No
+LN_188,March,2025,473802.6326,7896.71,On-Time,3,126,Fully Recovered,1,Legal Notice,No
+LN_189,January,2025,48916.54641,1019.09,Delayed,3,83,Written Off,10,Calls,Yes
+LN_190,April,2025,712074.3003,19779.84,Delayed,3,46,Fully Recovered,0,Legal Notice,No
+LN_191,April,2025,170025.3142,2833.76,Delayed,0,0,Partially Recovered,10,Debt Collectors,No
+LN_192,January,2025,477614.4222,7960.24,Delayed,0,0,Fully Recovered,0,Debt Collectors,No
+LN_193,January,2025,1315302.213,109608.52,Delayed,0,0,Partially Recovered,4,Calls,No
+LN_194,March,2025,153288.5783,2554.81,On-Time,3,124,Fully Recovered,3,Debt Collectors,No
+LN_195,May,2025,594722.1897,9912.04,Delayed,2,54,Partially Recovered,0,Legal Notice,No
+LN_196,April,2025,822335.8116,17132,On-Time,0,0,Fully Recovered,2,Calls,No
+LN_197,January,2025,68321.26454,948.91,Delayed,1,90,Partially Recovered,2,Settlement Offer,No
+LN_198,March,2025,453140.4814,7552.34,Delayed,1,66,Written Off,1,Calls,No
+LN_199,March,2025,58978.58833,982.98,On-Time,1,87,Partially Recovered,4,Legal Notice,No
+LN_200,March,2025,227327.9549,3788.8,On-Time,3,71,Fully Recovered,2,Calls,No
+LN_201,March,2025,326675.7678,13611.49,On-Time,1,152,Written Off,6,Calls,Yes
+LN_202,April,2025,1700987.913,70874.5,On-Time,3,179,Fully Recovered,1,Legal Notice,No
+LN_203,January,2025,272210.5472,5671.05,Delayed,1,70,Partially Recovered,3,Calls,No
+LN_204,January,2025,611574.3487,16988.18,On-Time,2,142,Partially Recovered,2,Calls,No
+LN_205,April,2025,345456.2844,9596.01,Delayed,3,2,Fully Recovered,2,Legal Notice,No
+LN_206,May,2025,1470464.126,20423.11,On-Time,1,132,Fully Recovered,2,Debt Collectors,No
+LN_207,April,2025,375704.1483,6261.74,Delayed,0,0,Fully Recovered,1,Legal Notice,No
+LN_208,May,2025,1794126.964,37377.65,Delayed,3,48,Fully Recovered,2,Calls,No
+LN_209,April,2025,604778.2201,8399.7,Delayed,0,0,Partially Recovered,7,Settlement Offer,No
+LN_210,April,2025,1886639.986,31444,On-Time,0,0,Fully Recovered,2,Settlement Offer,No
+LN_211,January,2025,1229562.689,34154.52,Missed,10,21,Fully Recovered,2,Legal Notice,No
+LN_212,May,2025,1413229.72,58884.57,On-Time,0,0,Fully Recovered,0,Settlement Offer,No
+LN_213,January,2025,174161.4462,3628.36,On-Time,0,0,Fully Recovered,3,Calls,No
+LN_214,May,2025,57594.48227,959.91,On-Time,1,61,Fully Recovered,0,Calls,No
+LN_215,January,2025,243246.6425,6756.85,On-Time,1,104,Partially Recovered,2,Legal Notice,No
+LN_216,May,2025,230598.4155,3843.31,Missed,6,125,Fully Recovered,1,Calls,No
+LN_217,May,2025,117965.2571,9830.44,On-Time,3,142,Partially Recovered,10,Debt Collectors,No
+LN_218,January,2025,247997.9009,4133.3,Delayed,3,61,Fully Recovered,3,Calls,No
+LN_219,April,2025,198635.3259,3310.59,Delayed,1,176,Fully Recovered,2,Legal Notice,No
+LN_220,May,2025,1319715.738,21995.26,On-Time,3,121,Partially Recovered,1,Debt Collectors,No
+LN_221,March,2025,773648.5851,10745.12,Delayed,0,0,Fully Recovered,3,Debt Collectors,No
+LN_222,May,2025,220312.1123,3671.87,On-Time,1,165,Fully Recovered,0,Settlement Offer,No
+LN_223,February,2025,1584600.202,22008.34,On-Time,3,125,Fully Recovered,2,Calls,No
+LN_224,February,2025,143093.0551,1987.4,On-Time,0,0,Fully Recovered,0,Legal Notice,No
+LN_225,May,2025,996111.7206,16601.86,Missed,6,114,Fully Recovered,3,Settlement Offer,No
+LN_226,May,2025,92939.64525,1548.99,Missed,4,4,Fully Recovered,2,Settlement Offer,No
+LN_227,May,2025,1108570.909,92380.91,On-Time,3,23,Fully Recovered,2,Calls,No
+LN_228,May,2025,113057.5201,2355.37,On-Time,2,75,Fully Recovered,3,Calls,No
+LN_229,February,2025,67579.74979,1407.91,Delayed,3,56,Fully Recovered,2,Legal Notice,No
+LN_230,May,2025,200807.8904,5578,On-Time,3,103,Fully Recovered,0,Settlement Offer,No
+LN_231,February,2025,569849.9386,15829.16,Delayed,1,177,Fully Recovered,1,Legal Notice,No
+LN_232,May,2025,1045269.955,14517.64,On-Time,1,62,Fully Recovered,3,Settlement Offer,No
+LN_233,February,2025,1559717.063,21662.74,On-Time,2,78,Written Off,0,Settlement Offer,Yes
+LN_234,February,2025,822662.3203,13711.04,Delayed,1,169,Fully Recovered,2,Settlement Offer,No
+LN_235,January,2025,221929.3408,6164.7,On-Time,0,0,Partially Recovered,9,Calls,No
+LN_236,February,2025,350897.9724,29241.5,Missed,9,148,Fully Recovered,1,Settlement Offer,No
+LN_237,April,2025,214012.4002,17834.37,Missed,11,94,Written Off,10,Settlement Offer,Yes
+LN_238,April,2025,830616.6364,23072.68,On-Time,0,0,Fully Recovered,0,Settlement Offer,No
+LN_239,January,2025,215746.1695,17978.85,On-Time,2,121,Written Off,10,Debt Collectors,Yes
+LN_240,March,2025,79159.20675,6596.6,Missed,0,0,Partially Recovered,7,Calls,No
+LN_241,April,2025,729559.3424,10132.77,Missed,0,0,Fully Recovered,2,Debt Collectors,No
+LN_242,May,2025,420501.2796,7008.35,On-Time,3,141,Partially Recovered,10,Calls,No
+LN_243,May,2025,264662.1739,7351.73,Delayed,1,135,Fully Recovered,3,Legal Notice,No
+LN_244,January,2025,58940.24136,2455.84,On-Time,0,0,Fully Recovered,0,Debt Collectors,No
+LN_245,January,2025,905052.0822,18855.25,On-Time,0,0,Partially Recovered,2,Legal Notice,No
+LN_246,April,2025,395644.9558,32970.41,Delayed,1,88,Written Off,0,Settlement Offer,No
+LN_247,February,2025,947590.9615,13160.99,On-Time,0,0,Fully Recovered,0,Legal Notice,No
+LN_248,April,2025,301110.4629,8364.18,Missed,9,108,Fully Recovered,2,Legal Notice,No
+LN_249,May,2025,1389518.107,38597.73,On-Time,0,0,Partially Recovered,7,Legal Notice,No
+LN_250,March,2025,1529768.344,42493.57,Delayed,1,140,Partially Recovered,1,Legal Notice,No
+LN_251,May,2025,413442.0066,34453.5,On-Time,3,84,Partially Recovered,1,Calls,No
+LN_252,February,2025,1114373.422,23216.11,On-Time,0,0,Partially Recovered,3,Debt Collectors,No
+LN_253,May,2025,521981.0308,8699.68,Delayed,1,90,Fully Recovered,1,Calls,No
+LN_254,April,2025,937450.1821,15624.17,On-Time,0,0,Written Off,6,Calls,No
+LN_255,March,2025,428509.0385,17854.54,On-Time,0,0,Fully Recovered,3,Calls,No
+LN_256,February,2025,154104.4788,3210.51,On-Time,3,179,Fully Recovered,2,Legal Notice,No
+LN_257,February,2025,442088.6857,9210.18,On-Time,2,116,Fully Recovered,3,Calls,No
+LN_258,March,2025,198910.4513,2762.65,Delayed,2,69,Fully Recovered,1,Debt Collectors,No
+LN_259,March,2025,102299.7701,2841.66,On-Time,1,78,Fully Recovered,3,Calls,No
+LN_260,March,2025,351731.7892,9770.33,On-Time,2,64,Partially Recovered,10,Settlement Offer,No
+LN_261,March,2025,309534.9995,6448.65,On-Time,1,59,Fully Recovered,0,Legal Notice,No
+LN_262,April,2025,262208.332,5462.67,On-Time,2,30,Fully Recovered,3,Settlement Offer,No
+LN_263,April,2025,1278685.054,26639.27,On-Time,3,49,Partially Recovered,9,Debt Collectors,No
+LN_264,February,2025,302326.5203,8397.96,On-Time,1,80,Fully Recovered,3,Debt Collectors,No
+LN_265,April,2025,1498294.29,31214.46,On-Time,2,30,Fully Recovered,2,Debt Collectors,No
+LN_266,May,2025,1138280.185,15809.45,Delayed,3,137,Fully Recovered,0,Debt Collectors,No
+LN_267,March,2025,78279.94018,1630.83,Delayed,2,176,Written Off,5,Calls,Yes
+LN_268,March,2025,1023876.745,14220.51,On-Time,0,0,Fully Recovered,1,Legal Notice,No
+LN_269,March,2025,141876.0957,2955.75,On-Time,0,0,Fully Recovered,3,Debt Collectors,No
+LN_270,March,2025,693903.4116,9637.55,On-Time,3,47,Fully Recovered,3,Settlement Offer,No
+LN_271,April,2025,466931.5653,7782.19,On-Time,0,0,Fully Recovered,1,Debt Collectors,No
+LN_272,March,2025,114062.721,3168.41,On-Time,0,0,Fully Recovered,2,Legal Notice,No
+LN_273,February,2025,503303.418,6990.33,On-Time,1,49,Fully Recovered,0,Settlement Offer,No
+LN_274,January,2025,665582.8348,27732.62,On-Time,2,55,Fully Recovered,2,Settlement Offer,No
+LN_275,April,2025,568179.8228,7891.39,On-Time,1,123,Written Off,8,Settlement Offer,Yes
+LN_276,February,2025,973084.7465,20272.6,On-Time,2,70,Fully Recovered,2,Calls,No
+LN_277,February,2025,246183.1,20515.26,On-Time,0,0,Fully Recovered,0,Debt Collectors,No
+LN_278,January,2025,1501065.624,31272.2,On-Time,1,150,Fully Recovered,3,Calls,No
+LN_279,May,2025,503983.5191,6999.77,On-Time,2,134,Fully Recovered,2,Settlement Offer,No
+LN_280,January,2025,938200.9247,78183.41,On-Time,2,152,Partially Recovered,3,Calls,No
+LN_281,March,2025,690403.1225,14383.4,On-Time,1,72,Fully Recovered,0,Calls,No
+LN_282,April,2025,62971.59149,1049.53,On-Time,3,25,Fully Recovered,3,Calls,No
+LN_283,April,2025,468696.2282,7811.6,On-Time,2,49,Partially Recovered,1,Debt Collectors,No
+LN_284,May,2025,692636.4912,19239.9,On-Time,0,0,Fully Recovered,1,Settlement Offer,No
+LN_285,May,2025,143707.3121,5987.8,On-Time,2,75,Fully Recovered,0,Settlement Offer,No
+LN_286,January,2025,420333.3747,35027.78,On-Time,0,0,Fully Recovered,0,Debt Collectors,No
+LN_287,May,2025,1037038.928,21604.98,On-Time,1,58,Fully Recovered,2,Calls,No
+LN_288,May,2025,90034.97967,1875.73,Delayed,2,92,Fully Recovered,1,Calls,No
+LN_289,February,2025,773867.7843,10748.16,On-Time,0,0,Fully Recovered,1,Legal Notice,No
+LN_290,February,2025,287643.0178,23970.25,On-Time,0,0,Fully Recovered,1,Legal Notice,No
+LN_291,January,2025,509210.498,8486.84,Delayed,1,45,Partially Recovered,1,Legal Notice,No
+LN_292,May,2025,1397196.42,116433.04,On-Time,2,77,Fully Recovered,1,Debt Collectors,No
+LN_293,February,2025,603346.4317,25139.43,On-Time,2,3,Fully Recovered,1,Settlement Offer,No
+LN_294,January,2025,967132.0385,20148.58,Delayed,1,136,Fully Recovered,1,Legal Notice,No
+LN_295,March,2025,62180.91846,1295.44,Delayed,2,32,Fully Recovered,2,Settlement Offer,No
+LN_296,May,2025,204909.547,3415.16,On-Time,1,70,Fully Recovered,1,Settlement Offer,No
+LN_297,March,2025,165543.0201,2299.21,On-Time,2,11,Written Off,9,Settlement Offer,Yes
+LN_298,March,2025,85220.40742,1775.43,On-Time,3,13,Partially Recovered,0,Debt Collectors,No
+LN_299,March,2025,234888.4602,3262.34,On-Time,2,141,Written Off,4,Debt Collectors,Yes
+LN_300,February,2025,1595668.082,22162.06,On-Time,0,0,Partially Recovered,2,Debt Collectors,No
+LN_301,March,2025,483868.8324,10080.6,On-Time,0,0,Fully Recovered,1,Debt Collectors,No
+LN_302,April,2025,116492.978,1941.55,On-Time,3,74,Fully Recovered,2,Legal Notice,No
+LN_303,February,2025,16273.87148,339.04,Missed,4,178,Fully Recovered,1,Calls,No
+LN_304,May,2025,85477.88145,7123.16,Missed,0,0,Fully Recovered,0,Calls,No
+LN_305,February,2025,125797.1792,2096.62,On-Time,0,0,Written Off,10,Calls,No
+LN_306,March,2025,762418.9407,63534.91,Delayed,2,32,Fully Recovered,0,Legal Notice,No
+LN_307,April,2025,629248.7798,13109.35,On-Time,1,163,Partially Recovered,2,Calls,No
+LN_308,March,2025,1676644.936,27944.08,Delayed,2,125,Fully Recovered,0,Legal Notice,No
+LN_309,January,2025,1114690.576,92890.88,On-Time,1,26,Partially Recovered,5,Legal Notice,No
+LN_310,January,2025,1259501.353,52479.22,On-Time,3,3,Written Off,3,Legal Notice,Yes
+LN_311,May,2025,405643.8396,5633.94,On-Time,3,146,Partially Recovered,9,Calls,No
+LN_312,May,2025,132957.1973,2769.94,On-Time,0,0,Partially Recovered,5,Settlement Offer,No
+LN_313,March,2025,1448461.506,60352.56,On-Time,0,0,Fully Recovered,0,Calls,No
+LN_314,March,2025,1726793.651,28779.89,Delayed,0,0,Partially Recovered,2,Calls,No
+LN_315,March,2025,248884.6858,5185.1,Delayed,1,72,Written Off,4,Debt Collectors,Yes
+LN_316,January,2025,102018.6221,2125.39,On-Time,0,0,Partially Recovered,0,Legal Notice,No
+LN_317,February,2025,74861.22742,1039.74,On-Time,2,120,Partially Recovered,2,Settlement Offer,No
+LN_318,March,2025,363235.4326,6053.92,On-Time,1,122,Partially Recovered,6,Debt Collectors,No
+LN_319,January,2025,1246469.32,34624.15,Delayed,3,112,Partially Recovered,8,Settlement Offer,No
+LN_320,January,2025,155416.0917,2590.27,Missed,2,87,Fully Recovered,0,Settlement Offer,No
+LN_321,April,2025,428391.4223,5949.88,Missed,0,0,Partially Recovered,1,Legal Notice,No
+LN_322,March,2025,368351.6227,15347.98,Delayed,2,47,Fully Recovered,3,Calls,No
+LN_323,May,2025,19785.39022,824.39,On-Time,2,13,Fully Recovered,3,Legal Notice,No
+LN_324,January,2025,946133.974,39422.25,On-Time,0,0,Fully Recovered,2,Legal Notice,No
+LN_325,January,2025,293616.1143,4893.6,On-Time,2,64,Fully Recovered,0,Debt Collectors,No
+LN_326,April,2025,802661.7626,16722.12,Missed,3,122,Fully Recovered,3,Legal Notice,No
+LN_327,January,2025,179341.3601,3736.28,On-Time,1,29,Fully Recovered,1,Calls,No
+LN_328,March,2025,659843.2831,9164.49,On-Time,0,0,Fully Recovered,0,Settlement Offer,No
+LN_329,February,2025,338323.5955,5638.73,Delayed,2,16,Fully Recovered,2,Legal Notice,No
+LN_330,April,2025,1733617.915,72234.08,On-Time,3,102,Fully Recovered,3,Settlement Offer,No
+LN_331,May,2025,703487.0853,19541.31,On-Time,1,125,Partially Recovered,10,Legal Notice,No
+LN_332,March,2025,622029.6585,17278.6,Delayed,1,18,Written Off,0,Settlement Offer,Yes
+LN_333,January,2025,51917.01356,1442.14,On-Time,1,147,Partially Recovered,0,Legal Notice,No
+LN_334,April,2025,128409.1101,2140.15,On-Time,1,161,Written Off,7,Debt Collectors,Yes
+LN_335,January,2025,36903.53924,512.55,Delayed,3,175,Partially Recovered,6,Settlement Offer,No
+LN_336,March,2025,325165.339,9032.37,Delayed,0,0,Fully Recovered,3,Legal Notice,No
+LN_337,April,2025,246148.871,5128.1,Missed,2,13,Partially Recovered,10,Legal Notice,No
+LN_338,March,2025,613551.2905,10225.85,On-Time,2,38,Partially Recovered,1,Debt Collectors,No
+LN_339,February,2025,1005392.951,27927.58,On-Time,3,38,Fully Recovered,3,Debt Collectors,No
+LN_340,January,2025,113511.7042,4729.65,Delayed,1,144,Fully Recovered,3,Debt Collectors,No
+LN_341,February,2025,196895.743,4101.99,On-Time,2,77,Partially Recovered,1,Settlement Offer,No
+LN_342,January,2025,139725.2546,11643.77,On-Time,1,21,Fully Recovered,0,Settlement Offer,No
+LN_343,May,2025,303243.0568,4211.71,Delayed,0,0,Partially Recovered,5,Debt Collectors,No
+LN_344,April,2025,851148.6873,70929.06,On-Time,3,63,Fully Recovered,1,Calls,No
+LN_345,April,2025,1592190.579,44227.52,On-Time,0,0,Fully Recovered,0,Calls,No
+LN_346,February,2025,1932395.92,40258.25,On-Time,3,30,Fully Recovered,1,Legal Notice,No
+LN_347,April,2025,478879.5402,6651.1,On-Time,1,142,Fully Recovered,2,Calls,No
+LN_348,February,2025,73908.648,3079.53,On-Time,1,106,Fully Recovered,2,Legal Notice,No
+LN_349,February,2025,634134.2925,26422.26,On-Time,3,155,Partially Recovered,6,Settlement Offer,No
+LN_350,March,2025,1372451.309,114370.94,Delayed,2,152,Partially Recovered,9,Settlement Offer,No
+LN_351,May,2025,814282.5829,33928.44,Missed,4,158,Partially Recovered,8,Calls,No
+LN_352,March,2025,1716129.784,71505.41,On-Time,1,57,Fully Recovered,2,Settlement Offer,No
+LN_353,May,2025,227188.6283,4733.1,On-Time,1,133,Partially Recovered,7,Debt Collectors,No
+LN_354,February,2025,1323596.491,55149.85,On-Time,0,0,Fully Recovered,3,Debt Collectors,No
+LN_355,April,2025,45015.92502,3751.33,On-Time,1,97,Fully Recovered,0,Calls,No
+LN_356,January,2025,1116947.389,18615.79,Delayed,3,115,Fully Recovered,0,Calls,No
+LN_357,February,2025,1635694.561,45435.96,Delayed,2,113,Fully Recovered,1,Legal Notice,No
+LN_358,May,2025,533824.2114,14828.45,Delayed,2,76,Fully Recovered,3,Settlement Offer,No
+LN_359,April,2025,750748.1165,20854.11,On-Time,0,0,Fully Recovered,3,Legal Notice,No
+LN_360,February,2025,71912.1306,998.78,On-Time,2,150,Partially Recovered,3,Legal Notice,No
+LN_361,April,2025,1294342.876,53930.95,On-Time,2,109,Partially Recovered,6,Debt Collectors,No
+LN_362,March,2025,1475467.283,20492.6,On-Time,3,78,Fully Recovered,2,Debt Collectors,No
+LN_363,January,2025,877296.2052,14621.6,Delayed,2,145,Fully Recovered,3,Debt Collectors,No
+LN_364,February,2025,486651.6601,40554.31,Missed,0,0,Fully Recovered,3,Debt Collectors,No
+LN_365,March,2025,396759.2514,5510.55,On-Time,0,0,Fully Recovered,3,Legal Notice,No
+LN_366,March,2025,349636.1456,9712.12,Delayed,2,158,Partially Recovered,1,Debt Collectors,No
+LN_367,March,2025,47673.16902,3972.76,On-Time,1,15,Fully Recovered,2,Settlement Offer,No
+LN_368,March,2025,40982.54986,683.04,On-Time,2,156,Partially Recovered,6,Debt Collectors,No
+LN_369,January,2025,502050.7006,8367.51,On-Time,0,0,Partially Recovered,5,Debt Collectors,No
+LN_370,February,2025,226290.3222,4714.38,On-Time,0,0,Fully Recovered,2,Debt Collectors,No
+LN_371,March,2025,140271.9029,5844.66,On-Time,3,25,Written Off,5,Calls,Yes
+LN_372,May,2025,172617.2157,3596.19,Delayed,2,53,Fully Recovered,1,Settlement Offer,No
+LN_373,January,2025,1603794.535,26729.91,Delayed,2,160,Fully Recovered,3,Settlement Offer,No
+LN_374,January,2025,213155.211,5920.98,On-Time,3,54,Fully Recovered,0,Legal Notice,No
+LN_375,April,2025,627915.1679,17442.09,On-Time,0,0,Fully Recovered,0,Legal Notice,No
+LN_376,March,2025,123180.9843,10265.08,Delayed,3,67,Fully Recovered,0,Debt Collectors,No
+LN_377,January,2025,31208.39595,1300.35,Delayed,1,169,Fully Recovered,0,Calls,No
+LN_378,April,2025,71370.19468,991.25,Delayed,2,20,Partially Recovered,6,Legal Notice,No
+LN_379,March,2025,789211.4787,21922.54,On-Time,0,0,Written Off,1,Legal Notice,No
+LN_380,January,2025,1290896.438,17929.12,Missed,11,40,Partially Recovered,5,Debt Collectors,No
+LN_381,April,2025,1622079.826,45057.77,On-Time,3,61,Fully Recovered,1,Debt Collectors,No
+LN_382,February,2025,260823.5753,4347.06,Delayed,0,0,Partially Recovered,8,Legal Notice,No
+LN_383,April,2025,576284.7518,16007.91,On-Time,1,44,Partially Recovered,0,Legal Notice,No
+LN_384,February,2025,950860.3701,26412.79,Delayed,2,141,Partially Recovered,9,Settlement Offer,No
+LN_385,April,2025,104416.1337,4350.67,On-Time,3,19,Partially Recovered,8,Calls,No
+LN_386,May,2025,217827.0459,6050.75,On-Time,0,0,Partially Recovered,8,Settlement Offer,No
+LN_387,January,2025,104401.2563,2175.03,On-Time,2,40,Fully Recovered,2,Legal Notice,No
+LN_388,May,2025,773594.0319,10744.36,On-Time,2,0,Partially Recovered,10,Settlement Offer,No
+LN_389,February,2025,39600.81205,660.01,Delayed,0,0,Fully Recovered,0,Settlement Offer,No
+LN_390,January,2025,156586.5449,6524.44,Delayed,2,104,Written Off,6,Legal Notice,No
+LN_391,May,2025,47548.98009,3962.42,Missed,8,115,Fully Recovered,2,Debt Collectors,No
+LN_392,April,2025,1438059.978,59919.17,On-Time,2,176,Fully Recovered,3,Legal Notice,No
+LN_393,April,2025,1880951.16,39186.48,Delayed,3,152,Fully Recovered,0,Debt Collectors,No
+LN_394,February,2025,434600.5515,7243.34,Delayed,2,120,Partially Recovered,4,Legal Notice,No
+LN_395,May,2025,92165.85367,1280.08,On-Time,3,74,Fully Recovered,2,Legal Notice,No
+LN_396,May,2025,239745.1919,19978.77,On-Time,2,8,Fully Recovered,2,Legal Notice,No
+LN_397,January,2025,275806.1176,5745.96,Delayed,1,59,Written Off,1,Calls,No
+LN_398,March,2025,29491.83342,614.41,Missed,3,73,Written Off,9,Debt Collectors,No
+LN_399,February,2025,57630.58658,960.51,Delayed,3,180,Fully Recovered,1,Calls,No
+LN_400,March,2025,392256.2009,8172,On-Time,3,72,Fully Recovered,1,Legal Notice,No
+LN_401,March,2025,93217.14346,1553.62,On-Time,1,179,Partially Recovered,10,Settlement Offer,No
+LN_402,January,2025,488977.0374,8149.62,On-Time,2,116,Written Off,7,Calls,No
+LN_403,March,2025,32142.5812,1339.27,Delayed,3,18,Fully Recovered,1,Debt Collectors,No
+LN_404,February,2025,195746.0764,3262.43,Delayed,0,0,Partially Recovered,1,Legal Notice,No
+LN_405,April,2025,163957.394,6831.56,On-Time,2,175,Fully Recovered,2,Calls,No
+LN_406,February,2025,1248200.81,20803.35,Delayed,2,59,Partially Recovered,8,Settlement Offer,No
+LN_407,April,2025,228224.1153,6339.56,On-Time,1,67,Partially Recovered,5,Calls,No
+LN_408,January,2025,1297457.015,27030.35,Missed,6,160,Fully Recovered,0,Debt Collectors,No
+LN_409,May,2025,376652.4754,5231.28,On-Time,2,150,Fully Recovered,2,Calls,No
+LN_410,February,2025,54636.4854,758.84,On-Time,3,169,Written Off,9,Settlement Offer,Yes
+LN_411,February,2025,1246544.928,20775.75,On-Time,3,50,Partially Recovered,3,Settlement Offer,No
+LN_412,April,2025,86650.59854,1805.22,On-Time,3,108,Fully Recovered,3,Debt Collectors,No
+LN_413,March,2025,133342.7946,2222.38,On-Time,1,29,Partially Recovered,8,Settlement Offer,No
+LN_414,February,2025,53266.84754,1109.73,On-Time,3,139,Partially Recovered,9,Legal Notice,No
+LN_415,January,2025,758611.257,10536.27,On-Time,1,57,Fully Recovered,0,Settlement Offer,No
+LN_416,May,2025,525086.2112,14585.73,Delayed,0,0,Partially Recovered,9,Legal Notice,No
+LN_417,May,2025,1540842.974,21400.6,On-Time,2,165,Fully Recovered,2,Calls,No
+LN_418,January,2025,236201.1386,3280.57,On-Time,2,38,Written Off,0,Legal Notice,No
+LN_419,April,2025,1157027.94,19283.8,On-Time,0,0,Fully Recovered,1,Legal Notice,No
+LN_420,May,2025,536251.5978,14895.88,Delayed,1,68,Fully Recovered,2,Calls,No
+LN_421,February,2025,369679.0919,15403.3,On-Time,2,36,Fully Recovered,2,Settlement Offer,No
+LN_422,February,2025,330550.0194,4590.97,Missed,3,18,Partially Recovered,5,Legal Notice,No
+LN_423,March,2025,30346.85583,1264.45,Delayed,1,15,Partially Recovered,5,Settlement Offer,No
+LN_424,May,2025,299378.8883,4158.04,On-Time,1,42,Partially Recovered,0,Calls,No
+LN_425,May,2025,417144.961,8690.52,On-Time,0,0,Partially Recovered,2,Debt Collectors,No
+LN_426,January,2025,420551.2315,11681.98,On-Time,0,0,Fully Recovered,1,Settlement Offer,No
+LN_427,January,2025,1529736.283,21246.34,On-Time,1,78,Written Off,9,Settlement Offer,Yes
+LN_428,May,2025,189941.8804,3957.12,Delayed,3,152,Fully Recovered,3,Debt Collectors,No
+LN_429,April,2025,386853.4526,8059.45,Missed,9,145,Partially Recovered,1,Debt Collectors,No
+LN_430,March,2025,918622.5688,19137.97,On-Time,0,0,Fully Recovered,1,Calls,No
+LN_431,February,2025,1744823.305,48467.31,On-Time,3,73,Partially Recovered,10,Settlement Offer,No
+LN_432,February,2025,407164.0596,6786.07,Delayed,3,112,Partially Recovered,0,Settlement Offer,No
+LN_433,May,2025,498431.5677,13845.32,Delayed,1,31,Partially Recovered,1,Calls,No
+LN_434,April,2025,1355583.564,18827.55,On-Time,3,119,Fully Recovered,1,Settlement Offer,No
+LN_435,March,2025,1372523.246,19062.82,On-Time,3,176,Fully Recovered,3,Legal Notice,No
+LN_436,January,2025,887038.6147,24639.96,On-Time,3,77,Fully Recovered,3,Legal Notice,No
+LN_437,May,2025,329600.1236,5493.34,Delayed,1,179,Partially Recovered,7,Legal Notice,No
+LN_438,February,2025,417774.8688,8703.64,On-Time,1,103,Fully Recovered,2,Settlement Offer,No
+LN_439,April,2025,737589.9317,20488.61,On-Time,0,0,Written Off,2,Legal Notice,No
+LN_440,January,2025,819030.8281,11375.43,Missed,12,69,Fully Recovered,2,Legal Notice,No
+LN_441,April,2025,198742.202,16561.85,Delayed,0,0,Fully Recovered,2,Calls,No
+LN_442,March,2025,1033088.815,28696.91,Delayed,3,128,Partially Recovered,5,Calls,No
+LN_443,April,2025,509862.6847,10622.14,On-Time,1,138,Fully Recovered,0,Debt Collectors,No
+LN_444,February,2025,841730.2534,17536.05,On-Time,1,126,Written Off,0,Debt Collectors,No
+LN_445,April,2025,838064.8831,17459.69,Missed,12,112,Partially Recovered,2,Debt Collectors,No
+LN_446,March,2025,1445925.517,24098.76,On-Time,3,20,Fully Recovered,1,Debt Collectors,No
+LN_447,May,2025,266265.4894,5547.2,On-Time,0,0,Fully Recovered,0,Calls,No
+LN_448,February,2025,1418352.563,29549.01,On-Time,1,153,Fully Recovered,0,Calls,No
+LN_449,January,2025,441147.7486,36762.31,On-Time,0,0,Fully Recovered,2,Calls,No
+LN_450,May,2025,191480.9219,5318.91,On-Time,3,10,Partially Recovered,7,Legal Notice,No
+LN_451,April,2025,539254.7458,22468.95,Delayed,1,110,Fully Recovered,3,Legal Notice,No
+LN_452,May,2025,363917.6881,10108.82,Missed,12,82,Fully Recovered,3,Debt Collectors,No
+LN_453,April,2025,470241.144,9796.69,Missed,7,154,Fully Recovered,3,Legal Notice,No
+LN_454,January,2025,216178.4956,9007.44,On-Time,2,64,Fully Recovered,3,Settlement Offer,No
+LN_455,February,2025,1109180.519,30810.57,On-Time,3,6,Fully Recovered,2,Calls,No
+LN_456,May,2025,51376.53138,2140.69,On-Time,3,23,Partially Recovered,3,Debt Collectors,No
+LN_457,January,2025,1512873.945,21012.14,Delayed,3,58,Partially Recovered,8,Debt Collectors,No
+LN_458,May,2025,29410.09552,408.47,On-Time,1,172,Partially Recovered,1,Settlement Offer,No
+LN_459,February,2025,375865.4703,7830.53,Delayed,3,147,Partially Recovered,5,Legal Notice,No
+LN_460,March,2025,1279533.992,17771.31,Delayed,3,150,Fully Recovered,3,Debt Collectors,No
+LN_461,May,2025,201172.0563,3352.87,On-Time,2,5,Partially Recovered,1,Legal Notice,No
+LN_462,April,2025,282199.6288,5879.16,On-Time,1,172,Fully Recovered,2,Legal Notice,No
+LN_463,April,2025,541900.3773,45158.36,Missed,10,68,Fully Recovered,3,Settlement Offer,No
+LN_464,May,2025,1516591.526,25276.53,Missed,4,147,Fully Recovered,2,Debt Collectors,No
+LN_465,January,2025,1045256.143,17420.94,On-Time,3,10,Fully Recovered,0,Legal Notice,No
+LN_466,March,2025,803785.0705,16745.52,On-Time,1,44,Partially Recovered,3,Legal Notice,No
+LN_467,February,2025,1389529.751,23158.83,Missed,4,120,Fully Recovered,3,Settlement Offer,No
+LN_468,April,2025,402043.4109,8375.9,On-Time,3,132,Partially Recovered,9,Settlement Offer,No
+LN_469,May,2025,183878.0892,3064.63,On-Time,0,0,Fully Recovered,0,Legal Notice,No
+LN_470,January,2025,131427.7031,1825.38,On-Time,2,166,Fully Recovered,0,Settlement Offer,No
+LN_471,February,2025,568455.0587,15790.42,On-Time,1,113,Partially Recovered,3,Legal Notice,No
+LN_472,April,2025,902911.4036,15048.52,On-Time,2,71,Fully Recovered,2,Debt Collectors,No
+LN_473,February,2025,167474.7292,3489.06,On-Time,2,46,Fully Recovered,1,Calls,No
+LN_474,January,2025,186670.7969,3111.18,On-Time,2,149,Fully Recovered,1,Settlement Offer,No
+LN_475,April,2025,1800582.92,30009.72,On-Time,0,0,Partially Recovered,4,Calls,No
+LN_476,April,2025,433475.7621,36122.98,Missed,2,111,Partially Recovered,4,Legal Notice,No
+LN_477,April,2025,572145.9066,11919.71,Delayed,1,162,Fully Recovered,2,Legal Notice,No
+LN_478,March,2025,250017.8483,10417.41,Delayed,1,125,Written Off,1,Legal Notice,No
+LN_479,April,2025,52716.29598,878.6,Delayed,3,23,Partially Recovered,0,Calls,No
+LN_480,May,2025,559027.2033,11646.4,On-Time,1,120,Partially Recovered,7,Legal Notice,No
+LN_481,January,2025,650931.5254,10848.86,On-Time,1,89,Partially Recovered,6,Settlement Offer,No
+LN_482,February,2025,395327.5388,16471.98,Missed,1,104,Fully Recovered,1,Debt Collectors,No
+LN_483,May,2025,641044.9198,13355.1,On-Time,3,85,Partially Recovered,2,Debt Collectors,No
+LN_484,May,2025,288413.657,8011.49,On-Time,3,82,Fully Recovered,3,Settlement Offer,No
+LN_485,March,2025,52790.38429,733.2,Delayed,2,171,Fully Recovered,1,Debt Collectors,No
+LN_486,March,2025,730981.4571,10152.52,On-Time,3,26,Written Off,8,Calls,No
+LN_487,April,2025,413205.9262,5738.97,On-Time,3,41,Partially Recovered,8,Legal Notice,No
+LN_488,January,2025,269668.1297,4494.47,Missed,0,0,Fully Recovered,2,Legal Notice,No
+LN_489,May,2025,1533515.246,25558.59,Delayed,1,84,Fully Recovered,0,Legal Notice,No
+LN_490,February,2025,86465.85768,3602.74,On-Time,3,105,Partially Recovered,6,Calls,No
+LN_491,February,2025,511595.0248,14210.97,Missed,6,177,Fully Recovered,0,Calls,No
+LN_492,May,2025,249011.615,5187.74,Delayed,0,0,Fully Recovered,3,Calls,No
+LN_493,January,2025,694748.4721,11579.14,Delayed,3,126,Fully Recovered,0,Settlement Offer,No
+LN_494,April,2025,1142483.779,15867.83,On-Time,3,73,Fully Recovered,3,Calls,No
+LN_495,February,2025,165977.4287,6915.73,On-Time,0,0,Partially Recovered,1,Debt Collectors,No
+LN_496,February,2025,413528.5296,5743.45,Delayed,2,169,Fully Recovered,2,Settlement Offer,No
+LN_497,January,2025,317374.0469,5289.57,Delayed,2,102,Partially Recovered,9,Settlement Offer,No
+LN_498,April,2025,330030.1825,6875.63,Delayed,3,140,Fully Recovered,3,Settlement Offer,No
+LN_499,January,2025,1565339.024,65222.46,On-Time,3,9,Partially Recovered,9,Calls,No
+LN_500,March,2025,188158.0821,15679.84,On-Time,1,116,Written Off,6,Settlement Offer,Yes
