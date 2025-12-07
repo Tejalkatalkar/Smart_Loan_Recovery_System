@@ -54,7 +54,7 @@ def add_bg_from_local(image_file):
     )
 
 # Call function with your local image
-add_bg_from_local("C:/Users/TEJAL KATALKAR/Smart_Loan_Recovery_Management_System___/Background.img.png")
+add_bg_from_local("https://github.com/Tejalkatalkar/Smart_Loan_Recovery_System/blob/main/Streamlit_App/Background.img.png")
 
 # ------------------ LOAD MODEL ------------------
 @st.cache_resource
@@ -157,3 +157,4 @@ if submitted:
         st.success(f"✅ Loan WILL be Recovered\n**Probability: {probability:.2f}%**")
     else:
         st.error(f"⚠️ Loan may NOT be Recovered\n**Probability: {probability:.2f}%**")
+
