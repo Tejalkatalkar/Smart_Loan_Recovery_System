@@ -59,7 +59,7 @@ add_bg_from_local("https://github.com/Tejalkatalkar/Smart_Loan_Recovery_System/b
 # ------------------ LOAD MODEL ------------------
 @st.cache_resource
 def load_model():
-    return joblib.load("xgboost_model.pkl")
+    return joblib.load("https://github.com/Tejalkatalkar/Smart_Loan_Recovery_System/blob/main/Streamlit_App/xgboost_model.pkl")
 
 model = load_model()
 
@@ -157,4 +157,5 @@ if submitted:
         st.success(f"✅ Loan WILL be Recovered\n**Probability: {probability:.2f}%**")
     else:
         st.error(f"⚠️ Loan may NOT be Recovered\n**Probability: {probability:.2f}%**")
+
 
